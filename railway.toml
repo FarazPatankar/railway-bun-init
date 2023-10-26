@@ -1,2 +1,3 @@
 [deploy]
 startCommand = "bun run index.ts"
+sleepApplication = true
